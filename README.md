@@ -1,2 +1,3 @@
-# Django_Course_Template
-Django_Course_Template
+# Course Store Template
+
+Template for Django course
